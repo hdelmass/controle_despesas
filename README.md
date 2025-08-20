@@ -1,33 +1,19 @@
-Resumo completo do que você fez
-
+Resumo completo do que fiz
 Criou a pasta do projeto controle_despesas
-
 Criou os arquivos:
-
 main.py → menu e execução
-
 despesas_controller.py → funções de adicionar/listar/calcular
-
 database.json → armazenamento das despesas
-
 README.md → descrição do projeto
-
-Colou o código certo em cada arquivo
-
 Rodou o programa no terminal e testou:
-
 Adicionar despesa ✅
-
 Listar despesas ✅
-
 Ver total ✅
-
 Inicializou o Git local na pasta do projeto:
 
 git init
 git add .
 git commit -m "Projeto controle de despesas inicial"
-
 
 Criou o repositório no GitHub e conectou o local:
 
@@ -49,6 +35,7 @@ Merge da branch na main e envio para o GitHub:
 git checkout main
 git merge adicionar_despesas
 git push
+
 
 Como verificar que está tudo pronto
 
@@ -77,3 +64,4 @@ python main.py
 
 
 Teste adicionar, listar e ver total de despesas → tudo funcionando
+
